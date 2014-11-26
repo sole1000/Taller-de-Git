@@ -44,7 +44,7 @@ Obteniendo onformación: git help, git status, git log
 
 
 
-
+Va a haber un conflicto en algún momento
 
 ------------------------------------
 
