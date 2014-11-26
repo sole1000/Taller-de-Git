@@ -44,7 +44,7 @@ Obteniendo onformación: git help, git status, git log
 
 
 
-Ya no
+
 
 ------------------------------------
 
