@@ -13,7 +13,7 @@ GitHub
 
 Abrir una cuenta en github.
 
-https://github.com
+(https://github.com)
 
 Interfaz web: Perfiles, preferencias, configuración, buscar...
 
@@ -21,13 +21,28 @@ Aspectos sociales básicos (Watch, Star, Fork, Issues, Pull Request)
 
 Hacer un fork
 
-https://github.com/psicobyte/Taller-de-Git
+(https://github.com/psicobyte/Taller-de-Git)
 
 Crear un nuevo repositorio
 
 Añadir un colaborador.
 
 --------------------------------
+
+Instalando git
+
+Configuración (usuario y correo)
+
+Clonando un reopsitorio: git clone
+
+Flujo de trabajo: git add, git commit
+
+Sincronizando: git pull, git push
+
+Obteniendo onformación: git help, git status, git log
+
+
+
 
 
 
