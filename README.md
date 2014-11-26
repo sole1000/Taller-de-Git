@@ -30,3 +30,13 @@ Añadir un colaborador.
 --------------------------------
 
 
+
+
+
+##Recursos
+
+[EL Zen de Git](http://www.psicobyte.com/descargas/ZenDeGit2.pdf)
+
+[Chuleta con los comandos de git](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+
+[También he venido a hablar de mi libro](http://www.amazon.es/gp/product/B00K515GL2?adid=1CD5MEA4AAGDTYMASSXP)
