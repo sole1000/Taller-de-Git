@@ -46,7 +46,7 @@ Obteniendo onformación: git help, git status, git log
 
 
 
-
+------------------------------------
 
 ##Recursos
 
