@@ -11,13 +11,22 @@ Git
 
 GitHub
 
-Abrir una cuenta en guthub.
+Abrir una cuenta en github.
 
-Interfaz: Perfiles, preferencias, configuración, buscar...
+https://github.com
 
-Aspectos sociales básicos (Watch, Star, Fork, Pull Request)
+Interfaz web: Perfiles, preferencias, configuración, buscar...
+
+Aspectos sociales básicos (Watch, Star, Fork, Issues, Pull Request)
 
 Hacer un fork
 
 https://github.com/psicobyte/Taller-de-Git
+
+Crear un nuevo repositorio
+
+Añadir un colaborador.
+
+--------------------------------
+
 
