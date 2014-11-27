@@ -79,6 +79,9 @@ Mezclar ramas: git merge
 
 Conflicto entre ramas (igual que entre repositorios)
 
+###Y más allá
+
+hooks y despliege de aplicaciones
 
 ##Recursos
 
