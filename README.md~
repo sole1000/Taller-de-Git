@@ -1,4 +1,4 @@
-Taller-de-Git
+Taller-de-Git (MODIFICADO)
 =============
 
 Taller práctico de Git para el curso de formación del profesorado en computación nube.
