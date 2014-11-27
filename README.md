@@ -1,4 +1,6 @@
-Taller-de-Git (MODIFICADO OTRA VEZ, pero en la master)
+<<<<<<< HEAD
+ooooooTaller-de-Git (MODIFICADO OTRA VEZ, pero en la master)
+
 =======
 
 
