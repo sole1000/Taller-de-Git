@@ -1,4 +1,4 @@
-Taller-de-Git
+Taller-de-Git (versión de la otra rama)
 =============
 
 Taller práctico de Git para el curso de formación del profesorado en computación nube.
