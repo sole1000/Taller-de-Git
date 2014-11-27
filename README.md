@@ -5,11 +5,17 @@ Taller práctico de Git para el curso de formación del profesorado en computaci
 
 ##Contenido del taller:
 
+
+###Lo Básico
+
 Qué es (y para qué sirve) el control de versiones
 
 Git
 
 GitHub
+
+
+###Los rudimentos de Github
 
 Abrir una cuenta en github.
 
@@ -27,7 +33,8 @@ Crear un nuevo repositorio
 
 Añadir un colaborador.
 
---------------------------------
+
+###Empezando con git
 
 Instalando git
 
@@ -37,11 +44,14 @@ Clonando un reopsitorio: git clone
 
 Flujo de trabajo: git add, git commit
 
+Obteniendo información: git help, git status, git log, git diff
+
+
+###Sincronizar
+
 Sincronizando: git pull, git push
 
 Comportamiento de push por defecto: git config --global push.default matching
-
-Obteniendo información: git help, git status, git log, git diff
 
 Creamos un conflicto:
 
@@ -56,6 +66,7 @@ Editamos el archivo en local (en la misma línea)
 Intentamos pushear
 
 
+###Ramas
 
 Creamos una rama: git branch
 
@@ -64,7 +75,10 @@ Cambiamos de rama: git checkout
 También podemos movernos por la historia
 
 
-------------------------------------
+Mezclar ramas: git merge
+
+Conflicto entre ramas (igual que entre repositorios)
+
 
 ##Recursos
 
