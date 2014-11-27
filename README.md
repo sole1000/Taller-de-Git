@@ -39,8 +39,7 @@ Flujo de trabajo: git add, git commit
 
 Sincronizando: git pull, git push
 
-Obteniendo onformación: git help, git status, git log
-
+Obteniendo onformación: git help, git status, git log, git diff
 
 
 
