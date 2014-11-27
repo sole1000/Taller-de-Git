@@ -39,11 +39,27 @@ Flujo de trabajo: git add, git commit
 
 Sincronizando: git pull, git push
 
-Obteniendo onformación: git help, git status, git log, git diff
+Comportamiento de push por defecto: git config --global push.default matching
+
+Obteniendo información: git help, git status, git log, git diff
+
+Creamos un conflicto:
+
+Editamos el archivo en la web de github
+Editamos el archivo en local (en distíntas líneas)
+Intentamos pushear
+
+Segunda prueba:
+
+Editamos el archivo en la web de github
+Editamos el archivo en local (en la misma línea)
+Intentamos pushear
 
 
 
+Creamos una rama: git branch
 
+Cambiamos de rama: git checkout
 
 ------------------------------------
 
