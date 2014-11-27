@@ -61,6 +61,9 @@ Creamos una rama: git branch
 
 Cambiamos de rama: git checkout
 
+También podemos movernos por la historia
+
+
 ------------------------------------
 
 ##Recursos
